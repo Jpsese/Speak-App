@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sixth-tempo-274205",
+  "private_key_id": "f860851ceec436aa135bb3b8bfcf8ef05432f473",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWeo9ddoyWkNGV\nPUO5eKrUfcNitOEEOssmkRQGhZ0YaTF9D2Z1eAHPvJwocmqyt1xnT6CA5sRHQJEu\ni+MLEL2BC2jbey/flDNzlx+bZ7eeyQBIaGgMVBN1CvU+gj2focf9yUI/DXYFuTkB\niM5+ACY/DpOk/ckH+ip7k8//akzFK8n1lsuxvNlOB4nRedWZE/WVGNGmJUSBoy2s\nj5dwhI1kCCKXdlMjRIA/P7xMBoSspNYJACZOOizgsHeHRMVyF2jmVtp7a57DSZQ9\nmUuq9ejW4WF4QFR7DVuL5Q18eikOY1PidZWcKC3QbvCymslOsKbHaEEn8v4uPhb5\n0bRDgnZnAgMBAAECggEABL16R4qKPsBli4H0xDCyO5WRthDyzobbmSy+/hPS+Fz/\nDTOvbwL5Mr7tziTQGIPH7dPcv11pJd5V7VVvMQ0nR38k9R3hLmeW8f6JJT1pYgMZ\nIWesG9dPgEN4jHVQgBOyyYYGzt2pr+AGP691VUyLBFQn41+Hp9rlis4gTP6KAsak\nNGu2gYC0IasboZaj6t7LYxjq909qUi/5pF6FcjQ9YYCXBCyZnKtnzOBqIzfW6pAh\n2iC4EiYMC5iGFZDQ3lbM1R8D+RE4n+z5zxmvZ7aYcJs/ov8Zsj9azjdjQ9itQiv+\na4rxPU0GMjVnR6ZlFNu+Llqgm2UkrWboEYmh7ZY6YQKBgQDFCHh+CbX+RrVApxAZ\nKl2ChXpRBmq+CO0t/uUIc7I9/JI6dl4AQI6tCg1qLutrza616/4itmizE0ughBQa\nuppZWqW94rlpI76raHs/UYkNwnA1u+vxaHyQpQ3SwWEiixRm3UababLPkpKPYt7o\nqZlVQtQSSLRW7SbTWtD0++BbXQKBgQDDg13fHT1vbe0MH9NBkEVaaU4q1vy78+86\nKmwAJ6fel5r9FnNek9PbxTxAzHNmLBKDJY/u2HqQ6VIdE9xDNYSajOxVL/GLgy5v\naLe5LPn7MxGFBBP79EnXfj1j/sik1H/1SiBUm3+ueJsbaGHXpNLSYz7U5bJFf7Id\nX2l5G4YAkwKBgFvBrhtD+nUICLCrHFwb1qBJ+MRy8JK/JXUeFxrwhjlHvfFr3irP\n5aG/5K9mWkxB5PLji94uhGOgwL9nwtUPwYGLLVRYmW/VLZ41ce/y0JiPzCG5+g7a\nUegqdV2IoOutSTr+ITuO5a6023va12QSV03VaV16bkFs/3+980GjasAhAoGABbye\nDYTrH5DnKrroVP0pu8xpOcKTKeSveVJzVtHTECn8pz54ZicKSWGRMgmNvUq/xE9e\n2NBLUGM4QJgrl2FDodFOwfUlLkXMIAK/mVRjhWZrNi73cyYo4ITYwk1gj82Yb5cc\nOb9SUMlDK9u1O0Gf2gKFfnO69mUX0drR2nbfSLcCgYBdgFMXl0bdgktF1yHAZIo3\nffqGAShg/pc2+fjQYWeT+lJpA5WrUmmMhQQzIeXYFPcbk543CX6Xns3Ad3yslsiN\npirMUqAKwJniQvC8PBQJwNq8W/FpmvliQV5HkvefWLT6agRhbo5uwmooc8i9uNFh\nfinG+LXJPfsZGEX9/WOYDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-app@sixth-tempo-274205.iam.gserviceaccount.com",
+  "client_id": "113008241054164573437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-app%40sixth-tempo-274205.iam.gserviceaccount.com"
+}
